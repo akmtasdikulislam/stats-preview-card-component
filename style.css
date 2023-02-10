@@ -83,8 +83,6 @@ body {
   height: 100%;
   object-fit: cover;
   border-radius: 0 0.5rem 0.5rem 0;
-  /* filter: invert(0%) sepia(50%) saturate(500%) hue-rotate(270deg)
-    brightness(0.7); */
 }
 
 .card-image::before {
